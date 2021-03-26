@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.exe
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.deps.json
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.dll
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\ref\Program.dll
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\bin\Debug\net5.0\Program.pdb
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.dll
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\ref\Program.dll
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.pdb
+C:\Users\Usuario\Desktop\Programacion II\Desafio-Lectura-Intercalada\src\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
