@@ -57,7 +57,7 @@ namespace Program
 
             }  
             
-            // Segunta parte, orden invertido
+            // Segunda parte, orden invertido
              while((line1 = file2.ReadLine()) != null )  
             {  
                 System.Console.WriteLine(line1);  
