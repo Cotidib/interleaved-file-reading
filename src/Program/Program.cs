@@ -68,22 +68,8 @@ namespace Program
                     break;                         
                 }     
             }
-            
-
-        
-
-
+                    
         }
-
-
-
-
-
-
-
-
-
-
 
 
 
